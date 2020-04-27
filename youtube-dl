@@ -1,3 +1,7 @@
+# uses youtube-dl - https://github.com/ytdl-org/youtube-dl 
+# and the python telebot api - https://github.com/eternnoir/pyTelegramBotAPI
+# this is a demo, is not secure 
+
 import telebot
 import subprocess
 import json
